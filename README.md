@@ -2,7 +2,7 @@
 Food ordering website
 
 # Description
-Emulation of a working food ordering website
+Emulation of a functional food ordering website
 
 ## Steps to run
 1. Install dependencies
