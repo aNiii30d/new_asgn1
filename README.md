@@ -2,9 +2,9 @@
 Food ordering website
 
 # Description
-Emulation of a functional food ordering website
+Emulation of a functionl food ordering website
 
 ## Steps to run
 1. Install dependencies
 2. Run the main script
-THIS is a confliction point
+This is a test conflict
